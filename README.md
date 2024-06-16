@@ -21,10 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahmad raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad raza" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmadkhushi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad raza" height="30" width="40" /></a>
 <a href="https://instagram.com/codingmeastro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingmeastro" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@fusionquizzes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@fusionquizzes" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ahmad raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmad raza" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/SKTFSCM21557034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahmad raza" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/moh_ahmadraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moh_ahmadraza" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/channels/877056448956346408/903005318127157269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/877056448956346408/903005318127157269" height="30" width="40" /></a>
 </p>
