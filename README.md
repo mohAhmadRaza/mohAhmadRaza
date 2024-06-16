@@ -1,11 +1,11 @@
-![logo](https://github.com/CodeMeastro/Ahmad_Raza/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
+![logo](https://github.com/mohahmadraza/Ahmad_Raza/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codemeastro&label=Profile%20views&color=0e75b6&style=flat" alt="codemeastro" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohahmadraza&label=Profile%20views&color=0e75b6&style=flat" alt="mohahmadraza" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codemeastro" alt="codemeastro" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohahmadraza" alt="mohahmadraza" /></a> </p>
 
 - 🔭 I’m currently working on [LeetCode](https://leetcode.com/u/moh_ahmadraza/)
 
