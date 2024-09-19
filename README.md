@@ -4,8 +4,17 @@
 <h5 align="center">An Undergraduate Softwre Engineer @ University of Engineering and Technology, Lahore. I'm building AI-driven projects, including chatbots and management systems, using technologies like Streamlit, GPT models, and APIs. I actively participate in hackathons and coding competitions, focusing on innovative applications like language translation tools. With a background in data analysis, I've honed my skills in libraries such as Pandas, NumPy, and Matplotlib, and I'm constantly expanding my knowledge in AI. And I'm a LeetCoder.</h5>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohahmadraza&label=Profile%20views&color=0e75b6&style=flat" alt="mohahmadraza" /> </p>
-<p align="left"> <img src="https://img.shields.io/badge/LeetCode%20Problems%20Solved-270%2B-orange" alt="LeetCode" /></p>
+<div align="left" style="display: flex; align-items: center;">
+   <!-- Profile views (GitHub) -->
+   <p style="margin-right: 10px;"> 
+      <img src="https://komarev.com/ghpvc/?username=mohahmadraza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+   </p>
+   
+   <!-- LeetCode Problems Solved -->
+   <p> 
+      <img src="https://img.shields.io/badge/LeetCode%20Problems%20Solved-100%2B-orange" alt="LeetCode Questions Solved" />
+   </p>
+</div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohahmadraza" alt="mohahmadraza" /></a> </p>
 
 - 🔭 I’m currently working on [LeetCode](https://leetcode.com/u/moh_ahmadraza/)
