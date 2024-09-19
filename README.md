@@ -5,9 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohahmadraza&label=Profile%20views&color=0e75b6&style=flat" alt="mohahmadraza" /> </p>
-<p align="left">
-   <img src="https://img.shields.io/badge/LeetCode%20Problems%20Solved-100%2B-orange" alt="LeetCode Questions Solved" />
-</p>
+<p align="left"> <img src="https://img.shields.io/badge/LeetCode%20Problems%20Solved-270%2B-orange" alt="LeetCode" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohahmadraza" alt="mohahmadraza" /></a> </p>
 
 - 🔭 I’m currently working on [LeetCode](https://leetcode.com/u/moh_ahmadraza/)
