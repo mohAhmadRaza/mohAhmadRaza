@@ -7,24 +7,18 @@
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
    <!-- Profile views (GitHub) -->
-   <span style="margin-right: 10px;"> 
-      <img src="https://komarev.com/ghpvc/?username=mohahmadraza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-   </span>
-   
+   <img src="https://komarev.com/ghpvc/?username=mohahmadraza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="margin-right: 10px;" /> 
+
    <!-- LeetCode Problems Solved -->
-   <span style="margin-right: 10px;"> 
-      <img src="https://img.shields.io/badge/LeetCode-270%2B-orange" alt="LeetCode Questions Solved" />
-   </span>
+   <img src="https://img.shields.io/badge/LeetCode-270%2B-orange" alt="LeetCode Questions Solved" style="margin-right: 10px;" />
 
    <!-- GitHub Followers -->
-   <span style="margin-right: 10px;"> 
-      <img src="https://img.shields.io/github/followers/mohahmadraza?label=Follow%20me&style=social" alt="GitHub Followers" />
-   </span>
+   <img src="https://img.shields.io/github/followers/mohahmadraza?label=Follow%20me&style=social" alt="GitHub Followers" style="margin-right: 10px;" />
 
    <!-- LinkedIn -->
-   <span> 
-      <a href="https://linkedin.com/in/ahmadkhushi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-View%20Profile-blue" alt="LinkedIn Profile" /></a>
-   </span>
+   <a href="https://linkedin.com/in/ahmadkhushi/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-blue" alt="LinkedIn Profile" />
+   </a>
 </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohahmadraza" alt="mohahmadraza" /></a> </p>
