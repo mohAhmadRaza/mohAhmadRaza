@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 
-<div align="left" style="display: flex; align-items: center;">
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
    <!-- Profile views (GitHub) -->
    <span style="margin-right: 10px;"> 
       <img src="https://komarev.com/ghpvc/?username=mohahmadraza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
