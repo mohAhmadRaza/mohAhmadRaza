@@ -15,8 +15,7 @@
    <!-- GitHub Followers -->
    <img src="https://img.shields.io/github/followers/mohahmadraza?label=Follow%20me&style=social" alt="GitHub Followers" style="margin-right: 10px;" />
    
-   <!-- Email -->
-   📧 <a href="mailto:sktfscm21557034@gmail.com" style="margin-right: 10px;">sktfscm21557034@gmail.com</a>
+   <img src="https://img.shields.io/badge/ahmadraza.aslm234@gmail.com-pink" alt="ahmadraza.aslm234@gmail.com" style="margin-right: 10px;"/>
 
    <!-- LinkedIn -->
    <a href="https://linkedin.com/in/ahmadkhushi/" target="_blank">
