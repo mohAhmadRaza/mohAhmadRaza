@@ -15,10 +15,6 @@
    <!-- GitHub Followers -->
    <img src="https://img.shields.io/github/followers/mohahmadraza?label=Follow%20me&style=social" alt="GitHub Followers" style="margin-right: 10px;" />
 
-   <!-- LinkedIn -->
-   <a href="https://linkedin.com/in/ahmadkhushi/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-blue" alt="LinkedIn Profile" />
-   </a>
 </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohahmadraza" alt="mohahmadraza" /></a> </p>
