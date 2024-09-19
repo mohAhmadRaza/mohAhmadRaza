@@ -7,29 +7,29 @@
 
 <div align="left" style="display: flex; align-items: center;">
    <!-- Profile views (GitHub) -->
-   <p style="margin-right: 10px;"> 
+   <span style="margin-right: 10px;"> 
       <img src="https://komarev.com/ghpvc/?username=mohahmadraza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-   </p>
+   </span>
    
    <!-- LeetCode Problems Solved -->
-   <p style="margin-right: 10px;"> 
+   <span style="margin-right: 10px;"> 
       <img src="https://img.shields.io/badge/LeetCode-270%2B-orange" alt="LeetCode Questions Solved" />
-   </p>
+   </span>
 
    <!-- GitHub Followers -->
-   <p style="margin-right: 10px;"> 
+   <span style="margin-right: 10px;"> 
       <img src="https://img.shields.io/github/followers/mohahmadraza?label=Follow%20me&style=social" alt="GitHub Followers" />
-   </p>
+   </span>
    
    <!-- Email -->
-   <p style="margin-right: 10px;"> 
+   <span style="margin-right: 10px;"> 
       📧 <a href="mailto:sktfscm21557034@gmail.com">sktfscm21557034@gmail.com</a>
-   </p>
+   </span>
 
    <!-- LinkedIn -->
-   <p> 
+   <span> 
       <a href="https://linkedin.com/in/ahmadkhushi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-View%20Profile-blue" alt="LinkedIn Profile" /></a>
-   </p>
+   </span>
 </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohahmadraza" alt="mohahmadraza" /></a> </p>
