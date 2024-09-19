@@ -12,7 +12,7 @@
    
    <!-- LeetCode Problems Solved -->
    <p> 
-      <img src="https://img.shields.io/badge/LeetCode%20Problems%20Solved-100%2B-orange" alt="LeetCode Questions Solved" />
+      <img src="https://img.shields.io/badge/LeetCode-270%2B-orange" alt="LeetCode Questions Solved" />
    </p>
 </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohahmadraza" alt="mohahmadraza" /></a> </p>
