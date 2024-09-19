@@ -20,11 +20,6 @@
    <span style="margin-right: 10px;"> 
       <img src="https://img.shields.io/github/followers/mohahmadraza?label=Follow%20me&style=social" alt="GitHub Followers" />
    </span>
-   
-   <!-- Email -->
-   <span style="margin-right: 10px;"> 
-      📧 <a href="mailto:sktfscm21557034@gmail.com">sktfscm21557034@gmail.com</a>
-   </span>
 
    <!-- LinkedIn -->
    <span> 
