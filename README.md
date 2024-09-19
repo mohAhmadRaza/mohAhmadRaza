@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 
-<div style="display: flex; justify-content: center; align-items: center; width: 100%; flex-wrap: nowrap; white-space: nowrap;">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; flex-wrap: nowrap;">
    <!-- Profile views (GitHub) -->
    <img src="https://komarev.com/ghpvc/?username=mohahmadraza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="margin-right: 10px;" /> 
 
@@ -14,7 +14,7 @@
 
    <!-- GitHub Followers -->
    <img src="https://img.shields.io/github/followers/mohahmadraza?label=Follow%20me&style=social" alt="GitHub Followers" style="margin-right: 10px;" />
-   
+
    <!-- LinkedIn -->
    <a href="https://linkedin.com/in/ahmadkhushi/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-blue" alt="LinkedIn Profile" />
