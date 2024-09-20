@@ -1,7 +1,9 @@
 ![logo](https://github.com/mohahmadraza/Ahmad_Raza/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
-<h5 align="center">An Undergraduate Software Engineer @ University of Engineering and Technology, Lahore. I'm building AI-driven projects, including chatbots and management systems, using technologies like Streamlit, GPT models, and APIs. I actively participate in hackathons and coding competitions, focusing on innovative applications like language translation tools. With a background in data analysis, I've honed my skills in libraries such as Pandas, NumPy, and Matplotlib, and I'm constantly expanding my knowledge in AI. And I'm a LeetCoder.</h5>
+<p align="center">An Undergraduate Software Engineer @ University of Engineering and Technology, Lahore. I'm building AI-driven projects, including chatbots and management systems, using technologies like Streamlit, GPT models, and APIs. I actively participate in hackathons and coding competitions, focusing on innovative applications like language translation tools. With a background in data analysis, I've honed my skills in libraries such as Pandas, NumPy, and Matplotlib, and I'm constantly expanding my knowledge in AI. And I'm a LeetCoder.</p>
+
+---
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 
