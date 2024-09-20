@@ -4,7 +4,7 @@
 <p align="center">An Undergraduate Software Engineer @ University of Engineering and Technology, Lahore. I'm building AI-driven projects, including chatbots and management systems, using technologies like Streamlit, GPT models, and APIs. I actively participate in hackathons and coding competitions, focusing on innovative applications like language translation tools. With a background in data analysis, I've honed my skills in libraries such as Pandas, NumPy, and Matplotlib, and I'm constantly expanding my knowledge in AI. And I'm a LeetCoder.</p>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
----
+
 <div style="display: flex; justify-content: center; align-items: center; width: 100%; flex-wrap: nowrap;">
    <!-- Profile views (GitHub) -->
    <img src="https://komarev.com/ghpvc/?username=mohahmadraza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="margin-left: 50px;" /> 
@@ -16,6 +16,8 @@
    <img src="https://img.shields.io/github/followers/mohahmadraza?label=Follow%20me&style=social" alt="GitHub Followers" style="margin-right: 10px;" />
 
 </div>
+
+---
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohahmadraza" alt="mohahmadraza" /></a> </p>
 
