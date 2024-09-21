@@ -12,7 +12,7 @@ ___
    <img src="https://komarev.com/ghpvc/?username=mohahmadraza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="margin-left: 50px;" /> 
 
    <!-- LeetCode Problems Solved -->
-   <img src="https://img.shields.io/badge/LeetCode-270%2B-orange" alt="LeetCode Questions Solved" style="margin-right: 10px;" />
+   <img src="https://img.shields.io/badge/LeetCode-280%2B-orange" alt="LeetCode Questions Solved" style="margin-right: 10px;" />
 
    <!-- GitHub Followers -->
    <img src="https://img.shields.io/github/followers/mohahmadraza?label=Follow%20me&style=social" alt="GitHub Followers" style="margin-right: 10px;" />
