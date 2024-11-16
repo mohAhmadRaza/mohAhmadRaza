@@ -88,16 +88,23 @@ Here’s a **stylish and professional README template** for your GitHub profile,
 ## 🏗️ My AI Projects  
 Here are some of the exciting projects I've been working on. You can find all the details and source code in the repositories below:  
 
-| **Project** | **Description** | **Technologies** | **Live Demo** |  
-|:------------|:----------------|:-----------------|:--------------|  
-| [Volund](https://github.com/mohAhmadRaza/Volund) | AI chatbot to solve challenges and suggest solutions. | Python, Streamlit | [🔗 Try It](https://volund.streamlit.app) |  
-| MediInfo | A desktop app for comprehensive medicine information. | Python, Streamlit, Falcon API | Coming Soon! 🚀 |  
-| Study Sage | Problem-solving tool for students. | LLaMA, Python, AI | Coming Soon! 🚀 |  
+| **Project** | **Description** | **Technologies** | **Live Demo** |  **Github Repo** |
+|:------------|:----------------|:-----------------|:--------------|:-----------------|  
+| Volund | AI chatbot to solve customer challenges to find products in nearby areas and suggest Websites. | Python, Streamlit, OpenAI API | [🔗 Try It](https://volund.streamlit.app) |  📂[Contribute](https://github.com/mohAhmadRaza/Volund) |
+| Medicano | A desktop app for comprehensive medicine information, diagonosis, health articles, nearby phramacies. | Python, Streamlit, Falcon API | [🔗 Try It](https://madicano.streamlit.app/) | 📂[Contribute](https://github.com/mohAhmadRaza/Medical-App-Medicano/) |
+| StudySage | Problem-solving tool for students. Help them in their goals, challenges and education. | LLaMA model, Python, Groq, Crewai, AI Agents | [🔗 Try It](https://huggingface.co/spaces/mohAhmad/StudySage) | 📂[Contribute](https://github.com/mohAhmadRaza/StudySage/) |
+| CulturalGenie | Chatbot for travelers to get cultural insights of traveling countries, traditions and to overcome language challenges. | LLaMA model, Python, Groq, Crewai, AI Agents | [🔗 Try It](https://madicano.streamlit.app/) | 📂[Contribute](https://github.com/mohAhmadRaza/CulturalGenie-HackathonProject) |
+| Llamario | This application allows users receive detailed descriptions, as well as generate content for social media based on user-defined topics. | GROQ API kry | [🔗 Try It](https://llamario.streamlit.app/) | 📂[Contribute](https://github.com/mohAhmadRaza/Llama-3.2-LlamarioApp) |
+| Fillipy | Fillipy is an innovative AI tool designed to assist users in filling out complex forms with ease.  | Llama 3.2-90b and Llama3-8b models, Python, Groq, streamlit | [🔗 Try It](https://huggingface.co/spaces/mohAhmad/Fillipy) | 📂[Contribute](https://github.com/mohAhmadRaza/Fillipy) |
+| RAG App | This Streamlit application allows users to upload a PDF document and ask questions about its content using an AI model. | Llama model, Python, Groq, streamlit | [🔗 Try It](https://huggingface.co/spaces/mohAhmad/RAGMODEL) | 📂[Contribute](https://github.com/mohAhmadRaza/Q-A-AI-Bot) |
+| ChildDron | ChildDron is a fun, interactive, and educational app for kids. | transformers, gtts, python, pyttsx3, streamlit | [🔗 Try It](https://huggingface.co/spaces/mohAhmad/ChildDron) | 📂[Contribute](https://huggingface.co/spaces/mohAhmad/Clienviron/tree/main) |
+| RecieptBanao | RecieptBanao is an app for creating reciept of selected foods items. | python, AI models, streamlit | [🔗 Try It](https://huggingface.co/spaces/mohAhmad/ChildDron) | 📂[Contribute](https://huggingface.co/spaces/mohAhmad/Clienviron/tree/main) |
+| LanguageTranslators | This app is for translating user inputed text into any selected language. | Helsinki-NLP/opus model, python, transformers, streamlit | [🔗 Try It](https://huggingface.co/spaces/mohAhmad/LanguageTranslator/) | 📂[Contribute](https://huggingface.co/spaces/mohAhmad/LanguageTranslator/tree/main) |
 
 ---
 
 ## 📂 [My Resume](#)  
-[![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader)](https://example.com/your_resume.pdf)  
+[![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader)](https://docs.google.com/document/d/1Sd3yEndd63lu3EMjiXBhAVzMcJYRZoiEf5Ol_2w5-bw/edit?tab=t.0)  
 
 ---
 
