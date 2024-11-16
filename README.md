@@ -1,7 +1,8 @@
 ![logo](https://github.com/mohahmadraza/Ahmad_Raza/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
-<p align="left">An Undergraduate Software Engineer @ University of Engineering and Technology, Lahore. I'm [US Certified Generative AI developer](https://drive.google.com/file/d/1gEw4ajdGWDf6aQ187Lj6Ola8AIXpBuja/view?usp=drive_link) and building AI-driven projects, including chatbots and management systems, using technologies like Open source models like Openai models, Ollama models, microsoft models, IBM Watsonx, and APIs. I actively participate in International Hackathons and coding competitions, focusing on innovative applications and strong logic building. ALso, I'm learning react.js. I'm constantly expanding my knowledge in AI. And I'm a LeetCoder.</p>
+<p align="left">An Undergraduate Software Engineer @ University of Engineering and Technology, Lahore. I'm 
+   [US Certified Generative AI developer](https://drive.google.com/file/d/1gEw4ajdGWDf6aQ187Lj6Ola8AIXpBuja/view?usp=drive_link) and building AI-driven projects, including chatbots and management systems, using technologies like Open source models like Openai models, Ollama models, microsoft models, IBM Watsonx, and APIs. I actively participate in International Hackathons and coding competitions, focusing on innovative applications and strong logic building. ALso, I'm learning react.js. I'm constantly expanding my knowledge in AI. And I'm a LeetCoder.</p>
 
 ___
 
