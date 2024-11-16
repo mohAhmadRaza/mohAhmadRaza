@@ -19,20 +19,30 @@ ___
 
 </div>
 
+## 🏆 Achievements  
+
+1. 🥈 **Finalist Team in Edge Runners International Hackathon (Sweden)** Selected finalists out of  **2420 members and 126 teams**, and our project ranked in top 5. [View Email](https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJGtlrMkQwvCXPtwDKsZztFdD)
+2. 🥈 **Ranked in my session with top GPAs** Classified in top 3 students of our session securing the highest CGPA of **3.81/4.00** with GPA of 3.93. [View DMC](https://drive.google.com/file/d/14DtMUomllsxuKii8Rp7E_5PTnlizlDDr/view?usp=drive_link)
+3. 🥇 **Meta Hacker Cup -Ranked 2** 294th out of 13,262 international contestants in the Meta Hacker Cup Practice Round 2024 and ranked **7730th** out of 22,100+ international Contestants in round-1.[View Certificate](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/464748833025590)
+4. 🥇 **350+ LeetCode Questions Solved** demonstrating analytical thinking, problem-solving skills and significantly enhanced my logical reasoning also elevated my ability to tackle complex challenges. [View Profile](https://leetcode.com/u/moh_ahmadraza/)
+5. 🥇 **100% Scholarship in Intermediate** Got 100% scholarship in intermediate.
+6. 🥇 **Mentored 3-Day Wordsprint Developer Hackathon 5.0** organized by iCodeGuru in collaboration with WPBridage.
+7. 📜 **Global Nominee in NASA Space App Challenge** Out of 9,900 teams and 60, 900 members, our team is selected in **940** global nominees. [Profile](https://www.spaceappschallenge.org/dashboard/)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohahmadraza" alt="mohahmadraza" /></a> </p>
 
 - 🔭 I’m currently working on [LeetCode](https://leetcode.com/u/moh_ahmadraza/)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React.JS**
 
 - 👯 I’m looking to collaborate on [Code In Place](https://codeinplace.stanford.edu/public/applyteach/cip4)
 
-- 💬 Ask me about **Python, C++**
+- 💬 Ask me about **Python, C/C++, C#, React.JS, JavaScript**
 
-- 📫 How to reach me **sktfscm21557034@gmail.com**
+- 📫 How to reach me **linkedin/in/ahmadkhushi**
 
-- ⚡ Fun fact **I think I'm singer, a writer and a good conveyer**
+- ⚡ Fun fact **I think I'm singer, a content creater and a good conveyer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -65,6 +75,25 @@ ___
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
 </p>
+
+Here’s a **stylish and professional README template** for your GitHub profile, incorporating sections for **projects, CV/Resume, and achievements**. The design will include Markdown for styling and placeholders for images.
+
+---
+
+## 🏗️ My AI Projects  
+Here are some of the exciting projects I've been working on. You can find all the details and source code in the repositories below:  
+
+| **Project** | **Description** | **Technologies** | **Live Demo** |  
+|:------------|:----------------|:-----------------|:--------------|  
+| [Volund](https://github.com/mohAhmadRaza/Volund) | AI chatbot to solve challenges and suggest solutions. | Python, Streamlit | [🔗 Try It](https://volund.streamlit.app) |  
+| MediInfo | A desktop app for comprehensive medicine information. | Python, Streamlit, Falcon API | Coming Soon! 🚀 |  
+| Study Sage | Problem-solving tool for students. | LLaMA, Python, AI | Coming Soon! 🚀 |  
+
+---
+
+## 📂 [My Resume](#)  
+[![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader)](https://example.com/your_resume.pdf)  
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohahmadraza&show_icons=true&locale=en&layout=compact" alt="mohahmadraza" /></p>
 
