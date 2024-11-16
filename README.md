@@ -1,7 +1,7 @@
 ![logo](https://github.com/mohahmadraza/Ahmad_Raza/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
-<p align="left">An Undergraduate Software Engineer @ University of Engineering and Technology, Lahore. I'm building AI-driven projects, including chatbots and management systems, using technologies like Streamlit, GPT models, and APIs. I actively participate in hackathons and coding competitions, focusing on innovative applications like language translation tools. With a background in data analysis, I've honed my skills in libraries such as Pandas, NumPy, and Matplotlib, and I'm constantly expanding my knowledge in AI. And I'm a LeetCoder.</p>
+<p align="left">An Undergraduate Software Engineer @ University of Engineering and Technology, Lahore. I'm [US Certified Generative AI developer](https://drive.google.com/file/d/1gEw4ajdGWDf6aQ187Lj6Ola8AIXpBuja/view?usp=drive_link) and building AI-driven projects, including chatbots and management systems, using technologies like Open source models like Openai models, Ollama models, microsoft models, IBM Watsonx, and APIs. I actively participate in International Hackathons and coding competitions, focusing on innovative applications and strong logic building. ALso, I'm learning react.js. I'm constantly expanding my knowledge in AI. And I'm a LeetCoder.</p>
 
 ___
 
@@ -29,6 +29,7 @@ ___
 6. 🥇 **Mentored 3-Day Wordsprint Developer Hackathon 5.0** organized by iCodeGuru in collaboration with WPBridage.
 7. 📜 **Global Nominee in NASA Space App Challenge** Out of 9,900 teams and 60, 900 members, our team is selected in **940** global nominees. [Profile](https://www.spaceappschallenge.org/dashboard/)
 
+---
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohahmadraza" alt="mohahmadraza" /></a> </p>
 
@@ -44,6 +45,8 @@ ___
 
 - ⚡ Fun fact **I think I'm singer, a content creater and a good conveyer**
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmadkhushi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad raza" height="30" width="40" /></a>
@@ -53,6 +56,8 @@ ___
 <a href="https://www.leetcode.com/moh_ahmadraza" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moh_ahmadraza" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/channels/877056448956346408/903005318127157269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
+
+--- 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -94,6 +99,7 @@ Here are some of the exciting projects I've been working on. You can find all th
 ## 📂 [My Resume](#)  
 [![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader)](https://example.com/your_resume.pdf)  
 
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohahmadraza&show_icons=true&locale=en&layout=compact" alt="mohahmadraza" /></p>
 
