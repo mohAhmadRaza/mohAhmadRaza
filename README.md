@@ -85,7 +85,7 @@ Here’s a **stylish and professional README template** for your GitHub profile,
 
 ---
 
-### 🏗️ My AI Projects  
+<h1 align="left">AI Projects</h1>  
 Here are some of the exciting projects I've been working on. You can find all the details and source code in the repositories below:  
 
 | **Project** | **Description** | **Technologies** | **Live Demo** |  **Github Repo** |
