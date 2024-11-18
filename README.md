@@ -19,7 +19,7 @@ ___
 
 </div>
 
-<h1 align="center"> 🏆 My Achievements <h1>
+<h1 align="center"> 🏆 My Achievements </h1>
 
 1. 🥈 **Finalist Team in Edge Runners International Hackathon (Sweden)** Selected finalists out of  **2420 members and 126 teams**, and our project ranked in top 5. [View Email](https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJGtlrMkQwvCXPtwDKsZztFdD)
 2. 🥈 **Ranked in my session with top GPAs** Classified in top 3 students of our session securing the highest CGPA of **3.81/4.00** with GPA of 3.93. [View DMC](https://drive.google.com/file/d/14DtMUomllsxuKii8Rp7E_5PTnlizlDDr/view?usp=drive_link)
