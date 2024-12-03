@@ -88,18 +88,22 @@ Here’s a **stylish and professional README template** for your GitHub profile,
 <h1 align="center">📂 My AI Projects</h1>  
 Here are some of the exciting projects I've been working on. You can find all the details and source code in the repositories below:  
 
+<h1 align="center"></h1>  
+
 | **Project** | **Description** | **Technologies** | **Live Demo** |  **Github Repo** |
 |:------------|:----------------|:-----------------|:--------------|:-----------------|  
+| BridgeSkills | AI-powered web application designed to assist professionals and job seekers in enhancing their careers. | ReactJS, NodeJS, Gemma2-9b-it, GROQ | [🔗 Try It](https://rococo-crepe-f85566.netlify.app/) | 📂[Contribute](https://github.com/mohAhmadRaza/GemmaAI-SkillBridge) |
+| Fillipy | Fillipy is an innovative AI tool designed to assist users in filling out complex forms with ease.  | Llama 3.2-90b and Llama3-8b models, Python, Groq, streamlit | [🔗 Try It](https://huggingface.co/spaces/mohAhmad/Fillipy) | 📂[Contribute](https://github.com/mohAhmadRaza/Fillipy) |
 | Volund | AI chatbot to solve customer challenges to find products in nearby areas and suggest Websites. | Python, Streamlit, OpenAI API | [🔗 Try It](https://volund.streamlit.app) |  📂[Contribute](https://github.com/mohAhmadRaza/Volund) |
 | Medicano | A desktop app for comprehensive medicine information, diagonosis, health articles, nearby phramacies. | Python, Streamlit, Falcon API | [🔗 Try It](https://madicano.streamlit.app/) | 📂[Contribute](https://github.com/mohAhmadRaza/Medical-App-Medicano/) |
 | StudySage | Problem-solving tool for students. Help them in their goals, challenges and education. | LLaMA model, Python, Groq, Crewai, AI Agents | [🔗 Try It](https://huggingface.co/spaces/mohAhmad/StudySage) | 📂[Contribute](https://github.com/mohAhmadRaza/StudySage/) |
 | CulturalGenie | Chatbot for travelers to get cultural insights of traveling countries, traditions and to overcome language challenges. | LLaMA model, Python, Groq, Crewai, AI Agents | [🔗 Try It](https://madicano.streamlit.app/) | 📂[Contribute](https://github.com/mohAhmadRaza/CulturalGenie-HackathonProject) |
 | Llamario | This application allows users receive detailed descriptions, as well as generate content for social media based on user-defined topics. | GROQ API kry | [🔗 Try It](https://llamario.streamlit.app/) | 📂[Contribute](https://github.com/mohAhmadRaza/Llama-3.2-LlamarioApp) |
-| Fillipy | Fillipy is an innovative AI tool designed to assist users in filling out complex forms with ease.  | Llama 3.2-90b and Llama3-8b models, Python, Groq, streamlit | [🔗 Try It](https://huggingface.co/spaces/mohAhmad/Fillipy) | 📂[Contribute](https://github.com/mohAhmadRaza/Fillipy) |
 | RAG App | This Streamlit application allows users to upload a PDF document and ask questions about its content using an AI model. | Llama model, Python, Groq, streamlit | [🔗 Try It](https://huggingface.co/spaces/mohAhmad/RAGMODEL) | 📂[Contribute](https://github.com/mohAhmadRaza/Q-A-AI-Bot) |
 | ChildDron | ChildDron is a fun, interactive, and educational app for kids. | transformers, gtts, python, pyttsx3, streamlit | [🔗 Try It](https://huggingface.co/spaces/mohAhmad/ChildDron) | 📂[Contribute](https://huggingface.co/spaces/mohAhmad/Clienviron/tree/main) |
 | RecieptBanao | RecieptBanao is an app for creating reciept of selected foods items. | python, AI models, streamlit | [🔗 Try It](https://huggingface.co/spaces/mohAhmad/ChildDron) | 📂[Contribute](https://huggingface.co/spaces/mohAhmad/Clienviron/tree/main) |
 | LanguageTranslators | This app is for translating user inputed text into any selected language. | Helsinki-NLP/opus model, python, transformers, streamlit | [🔗 Try It](https://huggingface.co/spaces/mohAhmad/LanguageTranslator/) | 📂[Contribute](https://huggingface.co/spaces/mohAhmad/LanguageTranslator/tree/main) |
+
 
 ---
 
