@@ -81,11 +81,10 @@ ___
   </a> 
 </p>
 
-Here’s a **stylish and professional README template** for your GitHub profile, incorporating sections for **projects, CV/Resume, and achievements**. The design will include Markdown for styling and placeholders for images.
-
 ---
 
-<h1 align="center">📂 My AI Projects</h1>  
+<h1 align="center">📂 My AI Projects</h1>
+
 Here are some of the exciting projects I've been working on. You can find all the details and source code in the repositories below:  
 
 <h1 align="center"></h1>  
