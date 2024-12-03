@@ -91,7 +91,7 @@ Here are some of the exciting projects I've been working on. You can find all th
 
 | **Project** | **Description** | **Technologies** | **Live Demo** |  **Github Repo** |
 |:------------|:----------------|:-----------------|:--------------|:-----------------|  
-| BridgeSkills | AI-powered web application designed to assist professionals and job seekers in enhancing their careers. | ReactJS, NodeJS, Gemma2-9b-it, GROQ | [🔗 Try It](https://rococo-crepe-f85566.netlify.app/) | 📂[Contribute](https://github.com/mohAhmadRaza/GemmaAI-SkillBridge) |
+| BridgeSkills | AI-powered web application designed to assist professionals and job seekers in enhancing their careers. | ReactJS, NodeJS, Gemma2-9b-it, GROQ | [🔗 Try It](https://rococo-crepe-f85566.netlify.app/) | 📂[Contribute](https://github.com/mohAhmadRaza/GemmaAI-SkillBridge) | 
 | Fillipy | Fillipy is an innovative AI tool designed to assist users in filling out complex forms with ease.  | Llama 3.2-90b and Llama3-8b models, Python, Groq, streamlit | [🔗 Try It](https://huggingface.co/spaces/mohAhmad/Fillipy) | 📂[Contribute](https://github.com/mohAhmadRaza/Fillipy) |
 | Volund | AI chatbot to solve customer challenges to find products in nearby areas and suggest Websites. | Python, Streamlit, OpenAI API | [🔗 Try It](https://volund.streamlit.app) |  📂[Contribute](https://github.com/mohAhmadRaza/Volund) |
 | Medicano | A desktop app for comprehensive medicine information, diagonosis, health articles, nearby phramacies. | Python, Streamlit, Falcon API | [🔗 Try It](https://madicano.streamlit.app/) | 📂[Contribute](https://github.com/mohAhmadRaza/Medical-App-Medicano/) |
