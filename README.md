@@ -9,7 +9,7 @@ ___
 
 <div style="display: flex; justify-content: center; align-items: center; width: 100%; flex-wrap: nowrap;">
    <!-- Profile views (GitHub) -->
-   <img src="https://komarev.com/ghpvc/?username=mohahmadraza&label=Profile%20views&color=0e105b6&style=flat" alt="Profile views" style="margin-left: 50px;" /> 
+   <img src="https://komarev.com/ghpvc/?username=mohahmadraza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="margin-left: 50px;" /> 
 
    <!-- LeetCode Problems Solved -->
    <img src="https://img.shields.io/badge/LeetCode-350%2B-orange" alt="LeetCode Questions Solved" style="margin-right: 10px;" />
