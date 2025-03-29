@@ -1,7 +1,7 @@
 ![logo](https://github.com/mohahmadraza/Ahmad_Raza/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
 
-<h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
-<p align="left">An Undergraduate Software Engineer @ University of Engineering and Technology, Lahore. I'm US Certified Generative AI developer and building AI-driven projects, including chatbots and management systems, using technologies like Open source models like Openai models, Ollama models, microsoft models, IBM Watsonx, and APIs. I actively participate in International Hackathons and coding competitions, focusing on innovative applications and strong logic building. ALso, I'm learning react.js. I'm constantly expanding my knowledge in AI. And I'm a LeetCoder.</p>
+<h1 align="center">I'm Ahmad Raza</h1>
+<p align="left">An Undergraduate Software Engineer @ University of Engineering and Technology, Lahore (CGPA 3.82/4.00) currently in 4th semester. <br> A US Certified Generative AI developer and building AI-driven projects. <br> Delivered 2 lectures on AI to a community of 5500+ non-science engineers, organized by Pakistan Engineering Council.<br> Regular participatant of International Hackathons and coding competitions, compleleted 15 hackathons. <br> Nominated globaly among 1800 members selected from 95, 000 participants in NASA's Challenge. <br> Finalist Team in Edge Runners International Hackathon (Sweden) <br> Meta Hacker Cup -Ranked 2294th <br> Mentored 3-Day Wordsprint Developer Hackathon 5.0 and ULEFUSA Gen AI Hackahton. <br> Solved 350+ LeetCode questions and delivered 15 session on it. <br> Got 100% Scholarship in my Matric, Intermediate even in university. <br> Led a 6 weeks IELTS Course along with two other trainers @iCodeGuru <br> Ranked 100th out of 500+ teams in MIT^2 International Competition. </p>
 
 ___
 
@@ -23,7 +23,7 @@ ___
 
 1. 🥈 **Finalist Team in Edge Runners International Hackathon (Sweden)** Selected finalists out of  **2420 members and 126 teams**, and our project ranked in top 5. [View Email](https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJGtlrMkQwvCXPtwDKsZztFdD)
 2. 🥈 **Ranked in my session with top GPAs** Classified in top 3 students of our session securing the highest CGPA of **3.81/4.00** with GPA of 3.93. [View DMC](https://drive.google.com/file/d/14DtMUomllsxuKii8Rp7E_5PTnlizlDDr/view?usp=drive_link)
-3. 🥇 **Meta Hacker Cup -Ranked 2** 294th out of 13,262 international contestants in the Meta Hacker Cup Practice Round 2024 and ranked **7730th** out of 22,100+ international Contestants in round-1.[View Certificate](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/464748833025590)
+3. 🥇 **Meta Hacker Cup -Ranked 2294th** out of 13,262 international contestants in the Meta Hacker Cup Practice Round 2024 and ranked **7730th** out of 22,100+ international Contestants in round-1.[View Certificate](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/464748833025590)
 4. 🥇 **350+ LeetCode Questions Solved** demonstrating analytical thinking, problem-solving skills and significantly enhanced my logical reasoning also elevated my ability to tackle complex challenges. [View Profile](https://leetcode.com/u/moh_ahmadraza/)
 5. 🥇 **100% Scholarship in Intermediate** Got 100% scholarship in intermediate.
 6. 🥇 **Mentored 3-Day Wordsprint Developer Hackathon 5.0** organized by iCodeGuru in collaboration with WPBridage.
