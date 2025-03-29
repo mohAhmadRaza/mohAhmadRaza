@@ -19,9 +19,7 @@
         <p>🏅 Ranked 100th out of 500+ teams in MIT^2 International Competition.</p>
     </div>
 </body>
-___
 
-<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 <p></p>
 <p></p>
 <div style="display: flex; justify-content: center; align-items: center; width: 100%; flex-wrap: nowrap;">
