@@ -1,7 +1,51 @@
 ![logo](https://github.com/mohahmadraza/Ahmad_Raza/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
 
 <h1 align="center">I'm Ahmad Raza</h1>
-<p style="font-size: 20px">An Undergraduate Software Engineer @ University of Engineering and Technology, Lahore (CGPA 3.82/4.00) currently in 4th semester. <br> A US Certified Generative AI developer and building AI-driven projects. <br> Delivered 2 lectures on AI to a community of 5500+ non-science engineers, organized by Pakistan Engineering Council.<br> Regular participatant of International Hackathons and coding competitions, compleleted 15 hackathons. <br> Nominated globaly among 1800 members selected from 95, 000 participants in NASA's Challenge. <br> Finalist Team in Edge Runners International Hackathon (Sweden) <br> Meta Hacker Cup -Ranked 2294th <br> Mentored 3-Day Wordsprint Developer Hackathon 5.0 and ULEFUSA Gen AI Hackahton. <br> Solved 350+ LeetCode questions and delivered 15 session on it. <br> Got 100% Scholarship in my Matric, Intermediate even in university. <br> Led a 6 weeks IELTS Course along with two other trainers @iCodeGuru <br> Ranked 100th out of 500+ teams in MIT^2 International Competition. </p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub README</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+        body {
+            font-family: 'Poppins', sans-serif;
+            font-size: 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+
+        p {
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <p><strong>An Undergraduate Software Engineer</strong> @ University of Engineering and Technology, Lahore (CGPA 3.82/4.00), currently in 4th semester.</p>
+        <p>🔹 A <strong>US Certified Generative AI Developer</strong> building AI-driven projects.</p>
+        <p>🎙️ Delivered 2 lectures on AI to a community of 5500+ non-science engineers, organized by <strong>Pakistan Engineering Council</strong>.</p>
+        <p>🏆 Regular participant in International Hackathons and coding competitions; completed <strong>15 hackathons</strong>.</p>
+        <p>🚀 Nominated globally among <strong>1800 members</strong> selected from <strong>95,000 participants</strong> in <strong>NASA's Challenge</strong>.</p>
+        <p>🥇 Finalist team in <strong>Edge Runners International Hackathon (Sweden)</strong>.</p>
+        <p>🌍 <strong>Meta Hacker Cup</strong> - Ranked <strong>2294th</strong>.</p>
+        <p>👨‍🏫 Mentored <strong>3-Day Wordsprint Developer Hackathon 5.0</strong> and <strong>ULEFUSA Gen AI Hackathon</strong>.</p>
+        <p>💻 Solved <strong>350+ LeetCode questions</strong> and delivered <strong>15 sessions</strong> on it.</p>
+        <p>🎓 Awarded <strong>100% Scholarship</strong> in Matric, Intermediate, and University.</p>
+        <p>📚 Led a <strong>6-week IELTS Course</strong> along with two other trainers @iCodeGuru.</p>
+        <p>🏅 Ranked <strong>100th out of 500+ teams</strong> in <strong>MIT^2 International Competition</strong>.</p>
+    </div>
+</body>
+</html>
+
 
 ___
 
