@@ -21,8 +21,9 @@
 </body>
 ___
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
-
+<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
+<p></p>
+<p></p>
 <div style="display: flex; justify-content: center; align-items: center; width: 100%; flex-wrap: nowrap;">
    <!-- Profile views (GitHub) -->
    <img src="https://komarev.com/ghpvc/?username=mohahmadraza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="margin-left: 50px;" /> 
