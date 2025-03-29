@@ -5,7 +5,7 @@
 <body>
     <div class="container">
         <p> </p>
-        <p>An Undergraduate Software Engineer @ University of Engineering and Technology, Lahore (CGPA 3.82/4.00), currently in 4th semester.</p>
+        <p>An Undergraduate Software Engineer @ UET, Lahore (KSK), (CGPA 3.82/4.00), currently in 4th semester.</p>
         <p>🚀 Nominated globally among 1800 members selected from 95,000 participants in NASA</p>
         <p>🎙️ Delivered 2 lectures on AI to a community of 5500+ non-science engineers, organized by Pakistan Engineering Council.</p>
         <p>🥇 Finalist team in Edge Runners International Hackathon (Sweden).</p>
@@ -34,18 +34,6 @@ ___
    <img src="https://img.shields.io/github/followers/mohahmadraza?label=Follow%20me&style=social" alt="GitHub Followers" style="margin-right: 10px;" />
 
 </div>
-
-<h1 align="center"> 🏆 My Achievements </h1>
-
-1. 🥈 **Finalist Team in Edge Runners International Hackathon (Sweden)** Selected finalists out of  **2420 members and 126 teams**, and our project ranked in top 5. [View Email](https://mail.google.com/mail/u/0/#inbox/FMfcgzQXJGtlrMkQwvCXPtwDKsZztFdD)
-2. 🥈 **Ranked in my session with top GPAs** Classified in top 3 students of our session securing the highest CGPA of **3.81/4.00** with GPA of 3.93. [View DMC](https://drive.google.com/file/d/14DtMUomllsxuKii8Rp7E_5PTnlizlDDr/view?usp=drive_link)
-3. 🥇 **Meta Hacker Cup -Ranked 2294th** out of 13,262 international contestants in the Meta Hacker Cup Practice Round 2024 and ranked **7730th** out of 22,100+ international Contestants in round-1.[View Certificate](https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/464748833025590)
-4. 🥇 **350+ LeetCode Questions Solved** demonstrating analytical thinking, problem-solving skills and significantly enhanced my logical reasoning also elevated my ability to tackle complex challenges. [View Profile](https://leetcode.com/u/moh_ahmadraza/)
-5. 🥇 **100% Scholarship in Intermediate** Got 100% scholarship in intermediate.
-6. 🥇 **Mentored 3-Day Wordsprint Developer Hackathon 5.0** organized by iCodeGuru in collaboration with WPBridage.
-7. 📜 **Global Nominee in NASA Space App Challenge** Out of 9,900 teams and 60, 900 members, our team is selected in **940** global nominees. [Profile](https://www.spaceappschallenge.org/dashboard/)
-
----
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohahmadraza" alt="mohahmadraza" /></a> </p>
 
