@@ -20,8 +20,8 @@
     </div>
 </body>
 
-<p>-----------------------------------------------------------</p>
-<p>-----------------------------------------------------------</p>
+<br>
+<br>
 
 <div style="display: flex; justify-content: center; align-items: center; width: 100%; flex-wrap: nowrap;">
    <!-- Profile views (GitHub) -->
@@ -34,6 +34,8 @@
    <img src="https://img.shields.io/github/followers/mohahmadraza?label=Follow%20me&style=social" alt="GitHub Followers" style="margin-right: 10px;" />
 
 </div>
+
+<br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohahmadraza" alt="mohahmadraza" /></a> </p>
 
