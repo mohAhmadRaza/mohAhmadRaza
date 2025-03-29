@@ -4,18 +4,19 @@
 
 <body>
     <div class="container">
-        <p><strong>An Undergraduate Software Engineer</strong> @ University of Engineering and Technology, Lahore (CGPA 3.82/4.00), currently in 4th semester.</p>
-        <p>🔹 A <strong>US Certified Generative AI Developer</strong> building AI-driven projects.</p>
-        <p>🎙️ Delivered 2 lectures on AI to a community of 5500+ non-science engineers, organized by <strong>Pakistan Engineering Council</strong>.</p>
-        <p>🏆 Regular participant in International Hackathons and coding competitions; completed <strong>15 hackathons</strong>.</p>
-        <p>🚀 Nominated globally among <strong>1800 members</strong> selected from <strong>95,000 participants</strong> in <strong>NASA's Challenge</strong>.</p>
-        <p>🥇 Finalist team in <strong>Edge Runners International Hackathon (Sweden)</strong>.</p>
-        <p>🌍 <strong>Meta Hacker Cup</strong> - Ranked <strong>2294th</strong>.</p>
-        <p>👨‍🏫 Mentored <strong>3-Day Wordsprint Developer Hackathon 5.0</strong> and <strong>ULEFUSA Gen AI Hackathon</strong>.</p>
-        <p>💻 Solved <strong>350+ LeetCode questions</strong> and delivered <strong>15 sessions</strong> on it.</p>
-        <p>🎓 Awarded <strong>100% Scholarship</strong> in Matric, Intermediate, and University.</p>
-        <p>📚 Led a <strong>6-week IELTS Course</strong> along with two other trainers @iCodeGuru.</p>
-        <p>🏅 Ranked <strong>100th out of 500+ teams</strong> in <strong>MIT^2 International Competition</strong>.</p>
+        <p> </p>
+        <p>An Undergraduate Software Engineer @ University of Engineering and Technology, Lahore (CGPA 3.82/4.00), currently in 4th semester.</p>
+        <p>🚀 Nominated globally among 1800 members selected from 95,000 participants in NASA</p>
+        <p>🎙️ Delivered 2 lectures on AI to a community of 5500+ non-science engineers, organized by Pakistan Engineering Council.</p>
+        <p>🥇 Finalist team in Edge Runners International Hackathon (Sweden).</p>
+        <p>🔹 A US Certified Generative AI Developer building AI-driven projects.</p>
+        <p>🏆 Regular participant in International Hackathons and coding competitions; completed 15 hackathons (won one).</p>
+        <p>🌍 Meta Hacker Cup - Ranked 2294th.</p>
+        <p>👨‍🏫 Mentored 3-Day Wordsprint Developer Hackathon 5.0 and ULEFUSA Gen AI Hackathon.</p>
+        <p>💻 Solved 350+ LeetCode questions and delivered 15 sessions on it.</p>
+        <p>🎓 Awarded 100% Scholarship in Matric, Intermediate, and University.</p>
+        <p>📚 Led a 6-week IELTS Course along with two other trainers @iCodeGuru.</p>
+        <p>🏅 Ranked 100th out of 500+ teams in MIT^2 International Competition.</p>
     </div>
 </body>
 ___
