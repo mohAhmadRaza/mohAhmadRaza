@@ -20,8 +20,9 @@
     </div>
 </body>
 
-<p></p>
-<p></p>
+<p>-----------------------------------------------------------</p>
+<p>-----------------------------------------------------------</p>
+
 <div style="display: flex; justify-content: center; align-items: center; width: 100%; flex-wrap: nowrap;">
    <!-- Profile views (GitHub) -->
    <img src="https://komarev.com/ghpvc/?username=mohahmadraza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="margin-left: 50px;" /> 
