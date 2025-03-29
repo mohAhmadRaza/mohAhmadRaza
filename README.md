@@ -2,6 +2,7 @@
 
 <h1 align="center">I'm Ahmad Raza</h1>
 
+<body>
     <div class="container">
         <p><strong>An Undergraduate Software Engineer</strong> @ University of Engineering and Technology, Lahore (CGPA 3.82/4.00), currently in 4th semester.</p>
         <p>🔹 A <strong>US Certified Generative AI Developer</strong> building AI-driven projects.</p>
@@ -16,7 +17,7 @@
         <p>📚 Led a <strong>6-week IELTS Course</strong> along with two other trainers @iCodeGuru.</p>
         <p>🏅 Ranked <strong>100th out of 500+ teams</strong> in <strong>MIT^2 International Competition</strong>.</p>
     </div>
-
+</body>
 ___
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
