@@ -1,34 +1,7 @@
 ![logo](https://github.com/mohahmadraza/Ahmad_Raza/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
 
 <h1 align="center">I'm Ahmad Raza</h1>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub README</title>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
 
-        body {
-            font-family: 'Poppins', sans-serif;
-            font-size: 20px;
-            line-height: 1.6;
-            color: #333;
-        }
-
-        .container {
-            max-width: 800px;
-            margin: auto;
-            padding: 20px;
-        }
-
-        p {
-            margin-bottom: 15px;
-        }
-    </style>
-</head>
-<body>
     <div class="container">
         <p><strong>An Undergraduate Software Engineer</strong> @ University of Engineering and Technology, Lahore (CGPA 3.82/4.00), currently in 4th semester.</p>
         <p>🔹 A <strong>US Certified Generative AI Developer</strong> building AI-driven projects.</p>
@@ -43,9 +16,6 @@
         <p>📚 Led a <strong>6-week IELTS Course</strong> along with two other trainers @iCodeGuru.</p>
         <p>🏅 Ranked <strong>100th out of 500+ teams</strong> in <strong>MIT^2 International Competition</strong>.</p>
     </div>
-</body>
-</html>
-
 
 ___
 
