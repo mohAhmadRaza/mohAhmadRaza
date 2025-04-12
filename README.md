@@ -6,6 +6,7 @@
     <div class="container">
         <p> </p>
         <p>An Undergraduate Software Engineer @ UET, Lahore (KSK), (CGPA 3.82/4.00), currently in 4th semester.</p>
+        <p>🚀 Section Leader @ Stanford, Code In Place2025.</p>
         <p>🚀 Nominated globally among 1800 members selected from 95,000 participants in NASA</p>
         <p>🎙️ Delivered 2 lectures on AI to a community of 5500+ non-science engineers, organized by Pakistan Engineering Council.</p>
         <p>🥇 Finalist team in Edge Runners International Hackathon (Sweden).</p>
