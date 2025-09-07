@@ -1,3 +1,4 @@
+<img width="2400" height="600" alt="Image" src="https://github.com/user-attachments/assets/933a3f5e-0b49-454e-8ae7-f54bdb91dd7b" />
 
 <h1 align="center">I'm Ahmad Raza</h1>
 <h1><a href="https://ahmadraza-theta.vercel.app/">Visit My Portofolio</a></h1>
