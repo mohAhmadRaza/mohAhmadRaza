@@ -1,4 +1,3 @@
-![logo](https://github.com/mohahmadraza/Ahmad_Raza/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
 
 <h1 align="center">I'm Ahmad Raza</h1>
 <h1><a href="https://ahmadraza-theta.vercel.app/">Visit My Portofolio</a></h1>
