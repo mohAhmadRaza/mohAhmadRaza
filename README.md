@@ -1,109 +1,275 @@
-<img width="2400" height="600" alt="Ahmad Raza Banner" src="https://github.com/user-attachments/assets/933a3f5e-0b49-454e-8ae7-f54bdb91dd7b" />
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
-<p align="center">
-  <a href="https://ahmadraza-theta.vercel.app/"><strong>🌐 Visit My Portfolio</strong></a> | 
-  <a href="https://docs.google.com/document/d/1Sd3yEndd63lu3EMjiXBhAVzMcJYRZoiEf5Ol_2w5-bw/edit?tab=t.0"><strong>📄 Download Resume</strong></a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ahmad%20Raza&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Developer%20%7C%20Flutter%20Developer&descAlignY=60&descSize=18&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohahmadraza&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/LeetCode-350%2B%20Solved-orange?style=flat-square&logo=leetcode" alt="LeetCode" />
-  <img src="https://img.shields.io/github/followers/mohahmadraza?label=Followers&style=social" alt="GitHub Followers" />
-</p>
+</div>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohahmadraza&theme=radical&column=7" alt="mohahmadraza trophies" />
-  </a> 
-</p>
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-6366f1?style=for-the-badge&logoColor=white)](https://ahmadraza-theta.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadkhushi/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-350%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/moh_ahmadraza/)
+[![Resume](https://img.shields.io/badge/📄_Resume-Download-10b981?style=for-the-badge)](https://docs.google.com/document/d/1Sd3yEndd63lu3EMjiXBhAVzMcJYRZoiEf5Ol_2w5-bw/edit?tab=t.0)
+
+</div>
 
 ---
 
-### 🚀 About Me
+## 👋 About Me
 
-I am an **Undergraduate Software Engineer** at **UET, Lahore (KSK)** (CGPA 3.82/4.00), currently in my 4th semester. I blend solid computer science fundamentals with an absolute passion for building production-grade mobile applications and intelligent AI systems.
+```yaml
+Name        : Ahmad Raza
+Education   : B.Sc. Software Engineering @ UET Lahore (KSK) | CGPA: 3.82/4.00 | 4th Semester
+Location    : Lahore, Pakistan
+Roles       : AI Developer · Flutter Developer · Section Leader @ Stanford
+Status      : Open to Flutter & AI Opportunities
+```
 
-*   **⚡ Industry Experience:** Software Engineer Intern at **Patronces** (June 4, 2025 – May 31, 2026), delivering enterprise-grade mobile applications.
-*   **🏫 Teaching & Leadership:** Section Leader @ **Stanford University (Code In Place 2025)**; delivered 2 core AI sessions to a community of 5,500+ engineers for the **Pakistan Engineering Council**.
-*   **🌌 Global Recognition:** Nominated globally among the top 1,800 members from 95,000+ participants in the **NASA Space Apps Challenge**.
-*   **🏆 Hackathon Champion:** Completed 15+ international hackathons (1 First-Place Win), and stood as a Finalist at the **Edge Runners International Hackathon (Sweden)**.
-*   **💻 Competitive Programming:** Ranked **2294th** in the **Meta Hacker Cup**; solved **350+ LeetCode problems** and mentored over 15 targeted DSA sessions.
+<details>
+<summary><b>🏆 Achievements & Highlights (click to expand)</b></summary>
+<br>
 
----
+| 🏅 Achievement | Details |
+|:---|:---|
+| 🚀 **Stanford Section Leader** | Code In Place 2025 |
+| 🌍 **NASA Global Nominee** | 1 of 1,800 selected from 95,000+ participants |
+| 🥇 **ICSC Ambassador** | Nominated from Sialkot, Pakistan |
+| 🏆 **International Hackathons** | Completed 15 hackathons, won 1 · Finalist at Edge Runners (Sweden) |
+| 🎙️ **AI Speaker** | 2 lectures to 5,500+ engineers via Pakistan Engineering Council |
+| 🏅 **MIT² Competition** | Ranked 100th out of 500+ teams |
+| 🌐 **Meta Hacker Cup** | Ranked 2,294th globally |
+| 💻 **LeetCode** | 350+ problems solved · 15 sessions delivered |
+| 🎓 **100% Scholar** | Full scholarship in Matric, Intermediate & University |
+| 👨‍🏫 **Hackathon Mentor** | Wordsprint Dev Hackathon 5.0 & ULEFUSA Gen AI Hackathon |
+| 📚 **IELTS Trainer** | Co-led 6-week IELTS course @ iCodeGuru |
 
-### 📱 Flutter & Mobile Engineering Experience
-> **Software Engineer at Patronces** (June 2025 – May 2026)
-> Engineered cross-platform architectures, secure state management pipelines, native device hardware integrations, and complex mapping services across 9 commercial mobile applications.
-
-| Project | Platform Status / Scope | Key Applied Features & Contributions |
-| :--- | :--- | :--- |
-| **DirectDoc** | <img src="https://img.shields.io/badge/App_Store-Live-blue?style=flat-square&logo=apple" height="20"/> <img src="https://img.shields.io/badge/Google_Play-Live-green?style=flat-square&logo=googleplay" height="20"/> | Secure payment gateway integration, instant telemedicine consulting flows, encrypted real-time chat, and patient-doctor auth cycles. |
-| **Medicall Network Health** | <img src="https://img.shields.io/badge/App_Store-Live-blue?style=flat-square&logo=apple" height="20"/> <img src="https://img.shields.io/badge/Google_Play-Live-green?style=flat-square&logo=googleplay" height="20"/> | Built scalable healthcare provider directory networks, geo-location mapping filters, and real-time appointment bookings. |
-| **Oxygen** | <img src="https://img.shields.io/badge/Status-Production-orange?style=flat-square" height="20"/> | Structured complex, hierarchical user roles and custom permission matrices leveraging dynamic cloud token management. |
-| **GolfMaps** | <img src="https://img.shields.io/badge/Status-Production-orange?style=flat-square" height="20"/> | Integrated advanced Google Maps APIs, customized polyline pathing, complex geospatial data types, and live score tracking metrics. |
-| **EzDIY** | <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" height="20"/> | Interactive custom step-by-step media player modules, resource local caching pipelines, and modern UI/UX grid patterns. |
-| **My Cyber** | <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" height="20"/> | Local device system monitoring interfaces, securely obfuscated security configurations, and sleek dark-mode custom dashboard widgets. |
-| **Rate My Pet** | <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" height="20"/> | Dynamic media uploading modules, real-time reactive upvoting/ranking mechanics, and customized community feed caching. |
-| **Diesel Bear** | <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" height="20"/> | Fleet fuel consumption logging engine, offline sync capability with local SQL storage, and dynamic multi-currency analytics charts. |
-| **Frammers Titles** | <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" height="20"/> | Customized rich-text metadata editing workspace, asset asset organization, and high-performance cross-rendering components. |
-
----
-
-### 📂 Generative AI & Web Projects
-
-| Project | Description | Tech Stack | Try Out |
-| :--- | :--- | :--- | :--- |
-| **BridgeSkills** | AI-powered career growth assistant handling mock interviews & resume analysis. | ReactJS, NodeJS, Gemma2-9b, Groq | [🔗 Live App](https://rococo-crepe-f85566.netlify.app/) |
-| **Fillipy** | Intelligent agent tool to intuitively fill out highly complex, nested digital forms. | Llama 3.2, Python, Streamlit | [🔗 Live Space](https://huggingface.co/spaces/mohAhmad/Fillipy) |
-| **Volund** | Direct conversational assistant locating localized neighborhood inventory availability. | Python, Streamlit, OpenAI API | [🔗 Live App](https://volund.streamlit.app) |
-| **StudySage** | AI Multi-Agent learning framework resolving academic curriculum blockages. | LLaMA, CrewAI Agents, Groq | [🔗 Live Space](https://huggingface.co/spaces/mohAhmad/StudySage) |
-| **Medicano** | Desktop pharmaceutical portal surfacing dynamic dosage insights and symptoms. | Python, Streamlit, Falcon API | [🔗 Live App](https://madicano.streamlit.app/) |
-| **CulturalGenie**| Cross-border companion bridging native traditions and real-time translation barriers. | LLaMA, CrewAI, Streamlit | [🔗 Live App](https://madicano.streamlit.app/) |
-| **Llamario** | Social content creation engine leveraging fast semantic context models. | Groq, Streamlit, Python | [🔗 Live App](https://llamario.streamlit.app/) |
-| **RAG App** | High-speed Retrieval-Augmented Generation context query workspace for heavy PDFs. | Llama, Groq, Streamlit | [🔗 Live Space](https://huggingface.co/spaces/mohAhmad/RAGMODEL) |
+</details>
 
 ---
 
-### 🛠️ Languages & Technical Ecosystem
+## 📱 Flutter Developer @ PATRONCES *(June 2024 – May 2026)*
 
-<p align="left">
-  <!-- Cross Platform & Systems -->
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <br>
-  <!-- Frontend & Data -->
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361dafb" alt="React" />
-  <img src="https://img.shields.io/badge/javascript-%23f7df1e.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
-</p>
+> 1 year of professional Flutter development experience building production-grade mobile applications — two of which are **live on the App Store & Google Play Store**.
+
+<div align="center">
+
+[![App Store](https://img.shields.io/badge/App_Store-2_Live_Apps-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com)
+[![Google Play](https://img.shields.io/badge/Google_Play-2_Live_Apps-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com)
+
+</div>
+
+### 🚀 Flutter Projects
 
 ---
 
-### 🤝 Connect with Me
+#### 1. 🏥 DirectDoc *(Live on App Store & Google Play)*
 
-<p align="left">
-  <a href="https://linkedin.com/in/ahmadkhushi/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://leetcode.com/moh_ahmadraza" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-  <a href="https://instagram.com/codingmeastro" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/@fusionquizzes" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/SKTFSCM21557034" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-</p>
+> A healthcare platform connecting patients with doctors for seamless appointment booking and consultations.
+
+**Features I Worked On:**
+- Doctor listing, filtering & profile screens
+- Appointment booking flow with calendar integration
+- Patient dashboard with visit history
+- Push notification integration
+- Real-time chat with healthcare providers
+
+[![App Store](https://img.shields.io/badge/Download_on-App_Store-black?style=flat-square&logo=apple)](https://apps.apple.com)
+[![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-green?style=flat-square&logo=google-play)](https://play.google.com)
 
 ---
 
-### 📊 My GitHub Insights
+#### 2. 🏥 Medicall Network Health *(Live on App Store & Google Play)*
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohahmadraza&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohahmadraza&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohahmadraza&theme=radical" alt="GitHub Streak" />
-</p>
+> A comprehensive health network app for managing medical records, finding specialists, and tracking health metrics.
 
-💡 _"Fun fact: I consider myself a software engineer by day, a singer/content creator by night, and an exceptional technical conveyer throughout."_
+**Features I Worked On:**
+- Health records management UI
+- Specialist search & filtering
+- Health metrics tracking dashboard
+- User onboarding & profile setup
+- Multi-language support screens
+
+[![App Store](https://img.shields.io/badge/Download_on-App_Store-black?style=flat-square&logo=apple)](https://apps.apple.com)
+[![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-green?style=flat-square&logo=google-play)](https://play.google.com)
+
+---
+
+#### 3. 🔧 EzDIY
+
+> A DIY project assistant app helping users plan, manage, and execute home improvement projects step by step.
+
+**Features I Worked On:**
+- Project creation & step-by-step guide screens
+- Material checklist with progress tracking
+- Tutorial browsing & bookmarking
+- User project gallery with image upload
+
+---
+
+#### 4. 💨 Oxygen
+
+> A wellness and breathing exercise app with guided sessions for stress relief and mindfulness.
+
+**Features I Worked On:**
+- Animated breathing exercise UI (inhale/exhale cycles)
+- Session timer with haptic feedback
+- Progress tracking & streaks
+- Customizable breathing patterns
+
+---
+
+#### 5. ⛳ GolfMaps
+
+> An interactive golf course navigation app with real-time maps, score tracking, and course information.
+
+**Features I Worked On:**
+- Interactive map integration with course overlays
+- Scorecard & stroke tracking UI
+- Course search & favorites
+- Leaderboard screen
+
+---
+
+#### 6. 🔐 My Cyber
+
+> A cybersecurity utility app providing password management, security tips, and digital safety tools.
+
+**Features I Worked On:**
+- Secure password vault UI
+- Security health score dashboard
+- Tips & alerts notification system
+- Biometric authentication screens
+
+---
+
+#### 7. 🐾 Rate My Pet
+
+> A fun social app for pet lovers to share photos, rate pets, and connect with the pet community.
+
+**Features I Worked On:**
+- Pet profile creation & photo upload
+- Rating & voting system UI
+- Social feed with infinite scroll
+- Comment & reaction system
+
+---
+
+#### 8. 🐻 Diesel Bear
+
+> A utility/lifestyle app with a bold brand identity, offering tracking and community features.
+
+**Features I Worked On:**
+- Custom animated splash screen
+- User profile & settings screens
+- Activity feed UI
+- Notification preferences
+
+---
+
+#### 9. 🖼️ Frammers Titles
+
+> A creative tool for designing and applying custom titles/frames to photos for social sharing.
+
+**Features I Worked On:**
+- Frame & title editor with live preview
+- Custom typography layering
+- Export & share functionality
+- Template library browsing screen
+
+---
+
+### 🛠️ Flutter Tech Stack
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GetX](https://img.shields.io/badge/GetX-8E24AA?style=for-the-badge&logoColor=white)
+![Bloc](https://img.shields.io/badge/BLoC-00897B?style=for-the-badge&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Push Notifications](https://img.shields.io/badge/Push_Notifications-FCE4EC?style=for-the-badge&logo=firebase&logoColor=red)
+
+</div>
+
+---
+
+## 🤖 AI Projects
+
+| Project | Description | Stack | Live | Code |
+|:--------|:------------|:------|:-----|:-----|
+| **BridgeSkills** | AI career enhancement platform for professionals & job seekers | ReactJS, NodeJS, Gemma2-9b-it, GROQ | [🔗 Demo](https://rococo-crepe-f85566.netlify.app/) | [📂 Repo](https://github.com/mohAhmadRaza/GemmaAI-SkillBridge) |
+| **Fillipy** | AI tool for filling complex forms with ease | Llama 3.2-90b, Python, Groq, Streamlit | [🔗 Demo](https://huggingface.co/spaces/mohAhmad/Fillipy) | [📂 Repo](https://github.com/mohAhmadRaza/Fillipy) |
+| **Volund** | AI chatbot for product discovery & website suggestions | Python, Streamlit, OpenAI API | [🔗 Demo](https://volund.streamlit.app) | [📂 Repo](https://github.com/mohAhmadRaza/Volund) |
+| **Medicano** | Desktop app for medicine info, diagnosis & nearby pharmacies | Python, Streamlit, Falcon API | [🔗 Demo](https://madicano.streamlit.app/) | [📂 Repo](https://github.com/mohAhmadRaza/Medical-App-Medicano/) |
+| **StudySage** | AI agents helping students with goals, challenges & education | LLaMA, Python, Groq, CrewAI | [🔗 Demo](https://huggingface.co/spaces/mohAhmad/StudySage) | [📂 Repo](https://github.com/mohAhmadRaza/StudySage/) |
+| **CulturalGenie** | Chatbot for cultural insights & language help for travelers | LLaMA, Python, Groq, CrewAI | [🔗 Demo](https://madicano.streamlit.app/) | [📂 Repo](https://github.com/mohAhmadRaza/CulturalGenie-HackathonProject) |
+| **Llamario** | AI content generator for social media | GROQ API | [🔗 Demo](https://llamario.streamlit.app/) | [📂 Repo](https://github.com/mohAhmadRaza/Llama-3.2-LlamarioApp) |
+| **RAG App** | PDF Q&A bot using retrieval-augmented generation | Llama, Python, Groq, Streamlit | [🔗 Demo](https://huggingface.co/spaces/mohAhmad/RAGMODEL) | [📂 Repo](https://github.com/mohAhmadRaza/Q-A-AI-Bot) |
+| **ChildDron** | Fun educational app for kids | Transformers, gTTS, Python, Streamlit | [🔗 Demo](https://huggingface.co/spaces/mohAhmad/ChildDron) | [📂 Repo](https://huggingface.co/spaces/mohAhmad/Clienviron/tree/main) |
+| **RecieptBanao** | AI-powered food receipt generator | Python, AI Models, Streamlit | [🔗 Demo](https://huggingface.co/spaces/mohAhmad/ChildDron) | [📂 Repo](https://huggingface.co/spaces/mohAhmad/Clienviron/tree/main) |
+| **LanguageTranslator** | Multi-language text translator | Helsinki-NLP/opus, Python, Streamlit | [🔗 Demo](https://huggingface.co/spaces/mohAhmad/LanguageTranslator/) | [📂 Repo](https://huggingface.co/spaces/mohAhmad/LanguageTranslator/tree/main) |
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadkhushi/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codingmeastro)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/@fusionquizzes)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/SKTFSCM21557034)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/moh_ahmadraza)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/877056448956346408/903005318127157269)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohahmadraza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohahmadraza&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1" alt="GitHub Streak" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohahmadraza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&layout=compact" alt="Top Languages" width="40%" />
+
+</div>
+
+<div align="center">
+
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohahmadraza&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/></a></p>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=mohahmadraza&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn" />
+
+</div>
